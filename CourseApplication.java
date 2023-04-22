@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
-public class Exercise1 {
+public class CourseApplication {
 	public static void main(String[] args) {
 		//Declare variables
 		int choice, section, student;
