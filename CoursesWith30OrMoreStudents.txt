@@ -1,0 +1,14 @@
+PAC II,Mohamed Zahran,1,45,CIWW 312
+Fundamental Algorithms,Joel Spencer,1,43,CIWW 109
+Open Source Tools,Jeffrey Korn,1,35,60 Fifth Ave C12
+Operating Systems,Hubertus Franke,1,67,CIWW 109
+Database Systems,Zvi Kedem,1,87,CIWW 101
+Software Engineering,Jean Claude Franchitti,1,69,CIWW 312
+Web Search Engines,Ernest Davis,1,66,CIWW 102
+Special Topic: Social Networks,Bhubaneswar Mishra,2,67,CIWW 201
+Special Topic: Cloud Computing,Jean Claude Franchitti,10,67,CIWW 102
+Intro to Web Design & Computer Principles,Joshua Clayton,1,66,CIWW 102
+Computer Systems Organization,Randy Shepherd,1,31,60 Fifth Ave 150
+Basic Algorithms,Victor Shoup,1,99,CIWW 109
+Numerical Computing,Michael Overton,1,31,60 Fifth Ave C12
+Theory Of Computation,Guy Kindler,1,32,CIWW 201
